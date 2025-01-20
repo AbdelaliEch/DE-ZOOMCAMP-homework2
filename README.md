@@ -35,6 +35,5 @@ SELECT COUNT(1) FROM `de_zoomcamp.yellow_tripdata_2021_03`;
 
 
 **Question 6:**  
-query: 
-**Answer:** 
+**Answer:** Add a timezone property set to America/New_York in the Schedule trigger configuration
 
